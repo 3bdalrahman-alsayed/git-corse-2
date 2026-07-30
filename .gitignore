@@ -1,0 +1,5 @@
+file.txt
+*.log
+temp/
+.nav
+!important.log
